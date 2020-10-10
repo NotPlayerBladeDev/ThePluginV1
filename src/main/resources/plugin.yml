@@ -1,0 +1,7 @@
+name: ThePluginV1
+version: ${project.version}
+main: me.notplayerbladedev.thepluginv1.ThePluginV1
+api-version: 1.16
+authors: [ NotPlayerBladeDev ]
+description: This is just a plugin I am using for learning Java
+website: https://discord.gg/bpY24Fh
