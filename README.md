@@ -1,2 +1,7 @@
 # ThePluginV1
-A simple test plugin! 
+This plugin is for myself and whoever would like to download my plugin. 
+***
+## Features
+- Stop people from shearing sheep
+- Send messages when leaving bed
+- Starting up message in console
