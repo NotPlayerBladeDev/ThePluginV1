@@ -1,0 +1,7 @@
+name: ThePluginV1
+version: ${project.version}
+main: me.notplayerbladedev.thepluginv1.ThePluginV1
+api-version: 1.16
+authors: [ NotPlayerBladeDev ]
+description: A plugin for one and one for all. | Randomest plugin EVER
+website: https://discord.gg/bpY24Fh
